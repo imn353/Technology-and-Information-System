@@ -7,6 +7,7 @@ As a primer subject, this course will introduce students to information systems 
 ### Poster : Industry Talk and Visit by Pittsburgh Plate Glass Company (PPG) and GetMeHired
 From this industry talk, I learned that it requires more than just excellent academic achievement to be relevant in an industry. It takes a lot of effort to widen further the skillset that companies demand and seek. Even day-to-day skill such as verbal and written communication needs refinements to be considered an excellent employee. Good communication skills are essential as presentations and dealing with clients are prominent in most jobs nowadays.
 
+![careerposter2](https://github.com/imn353/Technology-and-Information-System/assets/84711795/7c0b42a7-25c1-46c9-9d15-0ea85c332e25)
 
 ### Video : Virtual Talk by UTM Digital and Visit to UTM Digital
 The sharing session has been beneficial to us all as students. For example, we have been exposed to the places where the UTM Digital staff work, which is called Open Office. At the Open Office, we learn tasks the staff need to carry out, how they relieve their tension in leisure time and more. This session also made us realize that the university is not just a place for us to learn and take exams, but we also need to gain experience as much as possible, as much experience of how the industry works. For example, we need to improve on how to interact with the client or customers how to make a professional presentation and much more.
@@ -18,10 +19,15 @@ From this session, I have been informed that to become a software developer, one
 
 ### Newsletter : Industry Visit to Huawei and Petronas
 This visit widens my perspective of how fast-evolving the world is right now. In a world that is changing quickly, I believe I must be proactive and forward-thinking. It is important to stay one step ahead of other people in this highly competitive setting. The rapid development of technology serves as a motivation to always be up to date in an ever-changing environment. It brings impact by being more adaptable to the fast-evolving technology. Having to enhance analytical thinking and problem-solving skills is also important. Problem-solving is a complex skill. It involves critical thinking, decision-making, creativity, and information processing. Effective problem-solvers use a systematic approach that allows them to break down difficult problems into smaller, more manageable parts. Life-long learning also plays a crucial role in life. I believe that this skill needs to be practised and continuously implemented as long as we live. I believe I must take severe precautions with my devices and online information because technology is developing quickly and cybersecurity has become a major concern for all.
+![petronasnews](https://github.com/imn353/Technology-and-Information-System/assets/84711795/b76be1ff-5543-474c-94a4-e59fb17e85be)
+![huaweinews](https://github.com/imn353/Technology-and-Information-System/assets/84711795/e39c2964-c705-450b-b9a1-9988f371e76e)
 
 
 ### PC Assmebly
 From this activity, I was given the chance to be hands-on with the hardware components of a computer. This has vastly improved my knowledge of the hardware side of a computer. I was able to identify the components after the activity. This activity has also taught me how to assemble and disassemble the computer with the proper procedures. Each step was provided with tips on how to handle each component to avoid damaging it. After this session, I am confident that I am capable a computer on own in the future.
+![pc3](https://github.com/imn353/Technology-and-Information-System/assets/84711795/595b1676-635d-4264-826e-a3ae70e34934)
+![pc5](https://github.com/imn353/Technology-and-Information-System/assets/84711795/f1b62155-a553-4a9d-b680-b2d982520029)
+![pc7](https://github.com/imn353/Technology-and-Information-System/assets/84711795/102b6358-dcd1-4a5d-a8db-49eaa255e5d2)
 
 
 ### Design Thinking (Low Fidelity Prototype)
