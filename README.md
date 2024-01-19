@@ -26,9 +26,10 @@ This visit widens my perspective of how fast-evolving the world is right now. In
 
 ### PC Assmebly
 From this activity, I was given the chance to be hands-on with the hardware components of a computer. This has vastly improved my knowledge of the hardware side of a computer. I was able to identify the components after the activity. This activity has also taught me how to assemble and disassemble the computer with the proper procedures. Each step was provided with tips on how to handle each component to avoid damaging it. After this session, I am confident that I am capable a computer on own in the future.
-![pc3](https://github.com/imn353/Technology-and-Information-System/assets/84711795/595b1676-635d-4264-826e-a3ae70e34934)
-![pc5](https://github.com/imn353/Technology-and-Information-System/assets/84711795/f1b62155-a553-4a9d-b680-b2d982520029)
-![pc7](https://github.com/imn353/Technology-and-Information-System/assets/84711795/102b6358-dcd1-4a5d-a8db-49eaa255e5d2)
+![pc7](https://github.com/imn353/Technology-and-Information-System/assets/84711795/cf9f3c72-c1a5-4b32-ae81-4cd02cbbf417)
+![pc5](https://github.com/imn353/Technology-and-Information-System/assets/84711795/9e2be1e2-4467-4659-ad5e-06305d38e03d)
+![pc3](https://github.com/imn353/Technology-and-Information-System/assets/84711795/ecb8507c-60f7-4651-8388-a2ddc9026c8c)
+
 
 
 ### Design Thinking (Low Fidelity Prototype)
