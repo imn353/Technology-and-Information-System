@@ -4,16 +4,16 @@ As a primer subject, this course will introduce students to information systems 
 
 ## Reflection on Each Assignments
 
-### Poster
+### Poster : Industry Talk and Visit by Pittsburgh Plate Glass Company (PPG) and GetMeHired
 From this industry talk, I learned that it requires more than just excellent academic achievement to be relevant in an industry. It takes a lot of effort to widen further the skillset that companies demand and seek. Even day-to-day skill such as verbal and written communication needs refinements to be considered an excellent employee. Good communication skills are essential as presentations and dealing with clients are prominent in most jobs nowadays.
 
-### Video
+### Video : Virtual Talk by UTM Digital and Visit to UTM Digital
 The sharing session has been beneficial to us all as students. For example, we have been exposed to the places where the UTM Digital staff work, which is called Open Office. At the Open Office, we learn tasks the staff need to carry out, how they relieve their tension in leisure time and more. This session also made us realize that the university is not just a place for us to learn and take exams, but we also need to gain experience as much as possible, as much experience of how the industry works. For example, we need to improve on how to interact with the client or customers how to make a professional presentation and much more.
 
-### Report
+### Report : Industry Talk by Credence a TM Subsidiary
 From this session, I have been informed that to become a software developer, one must first familiarise with the key aspects of the software development cycle. Only by understanding the key aspects will then one be able to set a goal and fulfil the requirements in developing a robust and high-quality system. After that, I was also told that I have to master numerous technical skills such as programming skills from a wide range of languages such as C++ and JavaScript, data management skills using PostgreSQL and data manipulation skills from using both SQL and Python programming language. From there, I will also develop my self-learning skills that will later contribute to my career as being adaptable to this ever-evolving technological world. Lastly, I will improve my problem-solving skills, communication skills and positive work ethic by collaborating with people of different backgrounds to deliver the best result.
 
-### Newsletter
+### Newsletter : Industry Visit to Huawei and Petronas
 This visit widens my perspective of how fast-evolving the world is right now. In a world that is changing quickly, I believe I must be proactive and forward-thinking. It is important to stay one step ahead of other people in this highly competitive setting. The rapid development of technology serves as a motivation to always be up to date in an ever-changing environment. It brings impact by being more adaptable to the fast-evolving technology. Having to enhance analytical thinking and problem-solving skills is also important. Problem-solving is a complex skill. It involves critical thinking, decision-making, creativity, and information processing. Effective problem-solvers use a systematic approach that allows them to break down difficult problems into smaller, more manageable parts. Life-long learning also plays a crucial role in life. I believe that this skill needs to be practised and continuously implemented as long as we live. I believe I must take severe precautions with my devices and online information because technology is developing quickly and cybersecurity has become a major concern for all.
 
 ### PC Assmebly
